@@ -1,9 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1781058214.89367 "c:/Users/Personal/OneDrive/Escritorio/database monroy/database documentation/Documentacion BD.tex" "Documentacion BD.pdf" "Documentacion BD" 1781058217.00213 0
-  "C:/Users/Personal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1780676913 81088 29d6fa367ac022d1b69251d68c0742e6 ""
-  "C:/Users/Personal/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1781042245 11548 468587c21a0c4c4c69f5a3ba6236d2d6 ""
+["pdflatex"] 1781106500.62024 "c:/Users/Personal/OneDrive/Escritorio/database monroy/database documentation/Documentacion BD.tex" "Documentacion BD.pdf" "Documentacion BD" 1781106503.22703 0
+  "C:/Users/Personal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1781105878 81088 29d6fa367ac022d1b69251d68c0742e6 ""
   "C:/Users/Personal/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1780446424 13334938 bd343c23f55bc821ac30b3c98b73150c ""
-  "C:/Users/Personal/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/Personal/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/Personal/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/Personal/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -32,6 +30,7 @@
   "C:/Users/Personal/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1761900684 20144 b966087dda3b194755eb460d32e2ef75 ""
   "C:/Users/Personal/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1761900684 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
   "C:/Users/Personal/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
+  "C:/Users/Personal/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty" 1469023953 6916 16d2656a1984957e674b149555f1ea1d ""
   "C:/Users/Personal/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg" 1465894292 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "C:/Users/Personal/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.cfg" 1465894292 1224 978390e9c2234eab29404bc21b268d1e ""
   "C:/Users/Personal/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/pdftex.def" 1762694372 19626 23e2822b9b2b5005f4c549ca98b9334d ""
@@ -46,10 +45,12 @@
   "C:/Users/Personal/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstmisc.sty" 1763898348 77105 002e983b638eadbf04e580642335f689 ""
   "C:/Users/Personal/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstpatch.sty" 1763898348 353 9024412f43e92cd5b21fe9ded82d0610 ""
   "C:/Users/Personal/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "Documentacion BD.aux" 1781058216 1067 25199b281c85474c3de8f5207a3e29b3 "pdflatex"
-  "Documentacion BD.tex" 1781058082 3464 7a926062a54a18531e0e999bef009cb5 ""
-  "c:/Users/Personal/OneDrive/Escritorio/database monroy/database documentation/Documentacion BD.tex" 1781058082 3464 7a926062a54a18531e0e999bef009cb5 ""
+  "Documentacion BD.aux" 1781106502 1689 dc48793102ef7e7240502b87a1b44e78 "pdflatex"
+  "Documentacion BD.tex" 1781106498 4043 fa5692e4fd612f846f564d42f2f51945 ""
+  "c:/Users/Personal/OneDrive/Escritorio/database monroy/database documentation/Documentacion BD.tex" 1781106498 4043 fa5692e4fd612f846f564d42f2f51945 ""
   "images/Ingeneria-Inversa.png" 1781038543 78474 09b16b83af6e01e5f8731afb4c7c710f ""
+  "images/P1.png" 1781104885 16845 af3e16b98cd4beb3d49baa3d9f30d4c4 ""
+  "images/P2.png" 1781106097 28165 16357a73ec6eb09b5458c256712a789e ""
   (generated)
   "Documentacion BD.aux"
   "Documentacion BD.log"

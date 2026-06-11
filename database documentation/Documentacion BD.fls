@@ -45,6 +45,8 @@ INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\gra
 INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
 INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
 INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
 INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
 INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
 INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
@@ -80,7 +82,6 @@ INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.
 INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT .\images\Ingeneria-Inversa.png
 INPUT .\images\Ingeneria-Inversa.png
 INPUT .\images\Ingeneria-Inversa.png
@@ -90,9 +91,24 @@ INPUT .\images\Ingeneria-Inversa.png
 INPUT .\images\Ingeneria-Inversa.png
 INPUT .\images\Ingeneria-Inversa.png
 INPUT C:\Users\Personal\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\images\P1.png
+INPUT .\images\P1.png
+INPUT .\images\P1.png
+INPUT .\images\P1.png
+INPUT .\images\P1.png
+INPUT .\images\P1.png
+INPUT .\images\P1.png
+INPUT .\images\Ingeneria-Inversa.png
+INPUT .\images\Ingeneria-Inversa.png
+INPUT .\images\Ingeneria-Inversa.png
+INPUT .\images\Ingeneria-Inversa.png
+INPUT .\images\P2.png
+INPUT .\images\P2.png
+INPUT .\images\P2.png
+INPUT .\images\P2.png
+INPUT .\images\P2.png
+INPUT .\images\P2.png
 INPUT Documentacion BD.aux
-INPUT C:\Users\Personal\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
-INPUT C:\Users\Personal\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\Personal\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.2)  9 JUN 2026 20:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.2)  10 JUN 2026 09:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -110,6 +110,13 @@ File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen154
 \Gin@req@width=\dimen155
+) (C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count294
+\float@exts=\toks20
+\float@box=\box55
+\@float@everytoks=\toks21
+\@floatcapt=\box56
 ) (C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
  (C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
@@ -128,12 +135,16 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 ) (C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count294
+\l__color_backend_stack_int=\count295
 ) (Documentacion BD.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
 (babel)             Reported on input line 8.
+
+
+LaTeX Warning: Label `fig-Ingeneria-Inversa' multiply defined.
+
 )
 \openout1 = `"Documentacion BD.aux"'.
 
@@ -153,20 +164,20 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
 LaTeX Font Info:    ... okay on input line 41.
 LaTeX Info: Redefining \. on input line 41.
 LaTeX Info: Redefining \% on input line 41.
-\c@lstlisting=\count295
+\c@lstlisting=\count296
  (C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count296
+\scratchcounter=\count297
 \scratchdimen=\dimen156
-\scratchbox=\box55
-\nofMPsegments=\count297
-\nofMParguments=\count298
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count299
+\scratchbox=\box57
+\nofMPsegments=\count298
+\nofMParguments=\count299
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count300
 \MPscratchDim=\dimen157
-\MPnumerator=\count300
-\makeMPintoPDFobject=\count301
-\everyMPtoPDFconversion=\toks21
+\MPnumerator=\count301
+\makeMPintoPDFobject=\count302
+\everyMPtoPDFconversion=\toks23
 ) (C:\Users\Personal\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -200,7 +211,28 @@ Overfull \hbox (42.44063pt too wide) in paragraph at lines 82--83
 
 [1
 
-{C:/Users/Personal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2 <./images/Ingeneria-Inversa.png>] (Documentacion BD.aux
+{C:/Users/Personal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<images/P1.png, id=11, 438.13687pt x 103.13531pt>
+File: images/P1.png Graphic file (type png)
+<use images/P1.png>
+Package pdftex.def Info: images/P1.png  used on input line 88.
+(pdftex.def)             Requested size: 345.0pt x 81.21317pt.
+File: images/Ingeneria-Inversa.png Graphic file (type png)
+<use images/Ingeneria-Inversa.png>
+Package pdftex.def Info: images/Ingeneria-Inversa.png  used on input line 93.
+(pdftex.def)             Requested size: 387.44063pt x 327.21669pt.
+
+Overfull \hbox (42.44063pt too wide) in paragraph at lines 93--94
+[][] 
+ []
+
+[2 <./images/Ingeneria-Inversa.png> <./images/P1.png>]
+<images/P2.png, id=17, 542.77782pt x 316.93407pt>
+File: images/P2.png Graphic file (type png)
+<use images/P2.png>
+Package pdftex.def Info: images/P2.png  used on input line 100.
+(pdftex.def)             Requested size: 345.0pt x 201.45883pt.
+ [3] [4 <./images/P2.png>] (Documentacion BD.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -208,19 +240,23 @@ LaTeX Info: Redefining \% on input line 8.
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 4661 strings out of 467871
- 74909 string characters out of 5416925
- 501290 words of memory out of 5000000
- 33533 multiletter control sequences out of 15000+600000
- 632043 words of font info for 54 fonts, out of 8000000 for 9000
+ 4744 strings out of 467871
+ 76278 string characters out of 5416925
+ 502773 words of memory out of 5000000
+ 33613 multiletter control sequences out of 15000+600000
+ 631708 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,12n,65p,315b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Personal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Personal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Personal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Personal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Personal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Personal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "Documentacion BD.pdf" (2 pages, 129899 bytes).
+<C:/Users/Personal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Personal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Personal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Personal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Personal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "Documentacion BD.pdf" (4 pages, 161658 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

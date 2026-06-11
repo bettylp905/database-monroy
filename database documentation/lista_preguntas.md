@@ -1,6 +1,6 @@
 #Preguntas que se deben responder en base al esquema de base de datos 'escuela'
 
-1.¿Cuales son los estudianes inscritos en el curso de "Algebra"?
+1.¿Cuales son los estudiantes inscritos en el curso de "Algebra"?
 6 , lo que tuve que hacer fue poner el siguiente codigo en SQL 
 "SELECT count(*) AS total_alumnos
 FROM inscripciones
@@ -9,7 +9,7 @@ where cursos.nombre ='Álgebra'", el select busca a todos los alumnos , luego se
 tabla de inscripciones ,despues busca con un Join los cursos que tengan inscripciones + id_curso , y para finalizar busca el nombre del curso que en este caso es Álgebra´.
 
 2.¿Que cursos imparte el Profesor Martinez?
- Programacion , de igual manera ocupaamos el JOIN para conectarnos a la tabla de cursos con la de profesores con el ON es como un puente que une los datos con el ID del profesor
+ Programacion , de igual manera ocupamos el JOIN para conectarnos a la tabla de cursos con la de profesores con el ON es como un puente que une los datos con el ID del profesor
 
 3.¿Cuantos estudiantes estan inscritos en cada curso?
 Algerbra = 6, Biologia = 3 , Historia = 3, Programacion = 3 , Fisica = 3
@@ -29,9 +29,10 @@ Juan	Pérez	8.50
 Juan	Pérez	9.00
 Carlos	Sánchez	9.20
 
-hacemos nuevamenye un select que pida  nombre , apellidos y notas de todos los alumnos inscritos a un curso , luego hacemos unos JOINS , el primero pide las inscripciones x estudiante , que devuelva las inscripcones cn el id de estudainte , el segundo las notas de las inscripciones (id) y un where donde se estipule que las solamente nos de los estudaintes con las notas mayores a 8.0
+hacemos nuevamente un select que pida  nombre , apellidos y notas de todos los alumnos inscritos a un curso , luego hacemos unos JOINS , el primero pide las inscripciones x estudiante y que devuelva las inscripcones con el id de estudainte , el segundo las notas de las inscripciones (id) y un where donde se estipule que las solamente nos de los estudaintes con las notas mayores a 8.0
 
 6.¿Que cursos tienen mas de una inscripcion?
+
 
 7.¿Que profesores pertenecen al departamento de 'Ingeneria'?
 

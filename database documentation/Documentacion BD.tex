@@ -2,7 +2,7 @@
 \usepackage[spanish]{babel}
 \usepackage{listings}
 \usepackage{graphicx} %paqute para que pueda jalar mi imagen del diagrama
-
+\usepackage{float}
 % Preámbulo
 
 \title{Análisis de ingeniería inversa sobre un sistema \textit{legacy}}
@@ -67,7 +67,7 @@ Bueno en primer lugar tenemos que crear un espacio inicial donde se va a guardar
         Curos y Aulas              & Registra materias que se imparten , que profesor las imparte
                                      y los salones con disponibilidad y cupo maximo\\ \hline
 
-        Horarios                   & Acomoda el día , a que hora y en que sal´n toca cada materia\\ \hline
+        Horarios                   & Acomoda el día , a que hora y en que salón toca cada materia\\ \hline
         
         Estudiantes e Inscripciones & Guarda los datos personales de los alumnos y lleva un control de 
                                       las materias que tienen inscritas\\ \hline
@@ -78,13 +78,33 @@ Bueno en primer lugar tenemos que crear un espacio inicial donde se va a guardar
 \end{table}
 
 \section{Diagramas y resultados}
-\begin{figure}[h!]
+\begin{figure}[H]
     \includegraphics[scale=0.4]{images/Ingeneria-Inversa.png}
     \caption{Diagrama Entidad - Relacion del Sistema}
     \label{fig-Ingeneria-Inversa}
     \end {figure}
 \section{Implementación y validación}
+\begin{figure}[H]
+ \includegraphics[width=\textwidth]{images/P1.png}
+  \caption{Implementacion de Cosulta en SQL para la Pregunta 1}
+
+\end{figure}
+\begin{figure}[H]
+    \includegraphics[scale=0.4]{images/Ingeneria-Inversa.png}
+    \caption{Diagrama Entidad - Relacion del Sistema}
+    \label{fig-Ingeneria-Inversa}
+    \end {figure}
+\section{Implementación y validación}
+\begin{figure}[H]
+ \graphicspath{{images/}}
+\includegraphics[width=\textwidth]{P2.png}
+  \caption{Implementacion de Cosulta en SQL para la Pregunta 2}
+
+\end{figure}
+
+
 \section{Conclusiones}
+ 
 
 
 
