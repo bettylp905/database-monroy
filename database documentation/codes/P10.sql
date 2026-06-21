@@ -1,4 +1,10 @@
-SELECT cursos.nombre AS curso, aulas.nombre AS aula, horarios.dia_semana, horarios.hora_inicio
-FROM cursos
-JOIN horarios ON cursos.id = horarios.id_curso
-JOIN aulas ON horarios.id_aula = aulas.id;
+CREATE PROCEDURE sp_promedio_estudiante( 
+    IN p_id_estudiante INT, 
+    OUT p_promedio DECIMAL(5,2)
+)
+BEGIN
+    SELECT AVG(n.nota) INTO p_promedio 
+    FROM notas n
+    INNER JOIN inscripciones i ON n.id_inscripcion = i.id
+    WHERE i.id_estudiante = p_id_estudiante 
+END    
